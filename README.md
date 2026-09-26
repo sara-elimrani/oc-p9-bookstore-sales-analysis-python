@@ -64,11 +64,10 @@ The study is split into two notebooks:
 ## Repository Structure
 
 ```text
-notebooks/
-  01_business_analysis.ipynb
-  02_statistical_analysis.ipynb
-presentation/
-  project_presentation.pptx
+01_business_analysis.ipynb
+02_statistical_analysis.ipynb
+project_presentation.pptx
+requirements.txt
 ```
 
 The notebooks contain executed outputs. To rerun them, provide the original project datasets and update the data paths used in the loading cells.
